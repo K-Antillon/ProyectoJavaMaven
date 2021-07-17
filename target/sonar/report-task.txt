@@ -1,0 +1,7 @@
+organization=k-antillon
+projectKey=K-Antillon_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=K-Antillon_ProyectoJavaMaven
+ceTaskId=AXqyokyR97rUou7ewd0x
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqyokyR97rUou7ewd0x
